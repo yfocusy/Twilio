@@ -12,7 +12,7 @@ const twilio = require("twilio")(
 
 const body = "More ice creams are coming!";
 
-const numbers = ["+61426500053","+61426500053"]
+const numbers = ["10053","6500053"]
 
 
 
