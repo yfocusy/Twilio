@@ -14,7 +14,7 @@ const twilio = require('twilio')(
 );
 
 const body = 'Ice cream is coming!';
-const number = "+61426500053";
+const number = "500053";
 
 
 twilio.messages.create({
